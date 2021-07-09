@@ -1,0 +1,7 @@
+The game starts with each player having four cards in their hand not revealed to their opponents.
+A hand's "strength" is a factor of how well a player can utilize their hand to avoid losing the game.
+For example, a hand of [1, 1, 1, 2] is an alright hand, a hand of [0, 0, 1, 2] is a good hand, and a
+hand of [1, 2, 3, 3] is a bad hand. At a player's turn, they must play a card from their hand by declaring 
+its number and placing it down on the table. The card's value is added to the total value.
+If the total value exceeds 9, the player loses their bet. The game continues in rounds until a player can no longer bet,
+or until a certain round number has been reached.
