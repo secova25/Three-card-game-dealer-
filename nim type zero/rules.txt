@@ -5,3 +5,5 @@ hand of [1, 2, 3, 3] is a bad hand. At a player's turn, they must play a card fr
 its number and placing it down on the table. The card's value is added to the total value.
 If the total value exceeds 9, the player loses their bet. The game continues in rounds until a player can no longer bet,
 or until a certain round number has been reached.
+
+https://kakegurui.fandom.com/wiki/Nim_Type_Zero
