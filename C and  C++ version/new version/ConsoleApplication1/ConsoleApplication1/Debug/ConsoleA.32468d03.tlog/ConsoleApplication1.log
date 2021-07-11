@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\sscov\source\repos\ConsoleApplication1\ConsoleApplication1\nimtypezero.h(198,13): error C2760: syntax error: unexpected token ']', expected 'id-expression'
+C:\Users\sscov\source\repos\ConsoleApplication1\ConsoleApplication1\nimtypezero.h(198,15): error C2146: syntax error: missing ']' before identifier 'nextPlayers'
+C:\Users\sscov\source\repos\ConsoleApplication1\ConsoleApplication1\nimtypezero.h(198,15): error C2061: syntax error: identifier 'nextPlayers'
+C:\Users\sscov\source\repos\ConsoleApplication1\ConsoleApplication1\nimtypezero.h(198,48): error C2143: syntax error: missing ';' before '{'
+C:\Users\sscov\source\repos\ConsoleApplication1\ConsoleApplication1\nimtypezero.h(198,48): error C2447: '{': missing function header (old-style formal list?)
